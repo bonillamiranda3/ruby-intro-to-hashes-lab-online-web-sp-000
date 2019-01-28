@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
-	Hash.new {'Jennifer Lawrence'}
+	Hash.new('Jennifer Lawrence')
 end
 
 def monopoly
